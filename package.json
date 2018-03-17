@@ -1,0 +1,26 @@
+{
+  "name": "bisto_nodejs",
+  "version": "1.1.0",
+  "description": "Bitso NodeJS Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kchin-project/bitso_nodejs.git"
+  },
+  "keywords": [
+    "bitso",
+    "bitcoin"
+  ],
+  "author": "Luis Cervantes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kchin-project/bitso_nodejs/issues"
+  },
+  "homepage": "https://github.com/Kchin-project/bitso_nodejs#readme",
+  "devDependencies": {
+    "axios": "^0.18.0"
+  }
+}
