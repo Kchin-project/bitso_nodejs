@@ -5,7 +5,7 @@
 - bitso_nodejs solamente contempla el uso de la API privada de [Bitso](https://bitso.com), para obtener la información de la API visita: [Bisto Docs](https://bitso.com/api_info)
 
 ### Uso
-Intalación : 
+Instalación : 
 ```
 npm install bitso_nodejs
 ```
