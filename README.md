@@ -5,6 +5,10 @@
 - bitso_nodejs solamente contempla el uso de la API privada de [Bitso](https://bitso.com), para obtener la información de la API visita: [Bisto Docs](https://bitso.com/api_info)
 
 ### Uso
+Intalación : 
+```
+npm install bitso_nodejs
+```
 Ejemplo general:
 ```javascript
 var bitso_nodejs = require('bitso_nodejs');
